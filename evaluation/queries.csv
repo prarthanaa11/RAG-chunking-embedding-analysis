@@ -1,0 +1,5 @@
+query,relevant_document,expected_information
+"What messages establish a TCP connection?","document1.txt","SYN, SYN-ACK and ACK"
+"How does TCP support reliable delivery?","document1.txt","Sequence numbers, acknowledgements and retransmission"
+"What does DNS do?","document2.txt","Maps domain names to information such as IP addresses"
+"How does DNS caching help?","document2.txt","Reduces lookup latency and network traffic"
